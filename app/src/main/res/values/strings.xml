@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API_App</string>
+     <string name="image_desc">Description de l\'image</string>
+
+</resources>
